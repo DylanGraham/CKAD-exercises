@@ -29,7 +29,7 @@ kubectl describe cm config
 </p>
 </details>
 
-### Create and display a configmap from a file
+### Create a configmap named configmap2 from a file, and display it's values
 
 Create the file with
 
